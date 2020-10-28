@@ -1,0 +1,17 @@
+ab E almost set ho gaya ha sab isme......ab apko pta ha ki kaise github main new repository bani jati ha and kaise uska naam dia jata ha ......
+
+
+git init
+
+git status
+
+
+sabse pahle jab bhi koi folder ko hme git repository main daalna hota ha to hum sabse pahle udhar right clikc karke git bash open karte hain and uske baad hum 
+
+
+git init
+
+ command ko run karte hain jisise ki ek hiddlen file crealte ho jati ha ....... .git ka folder ......
+
+
+ab next step main hme udhar git GUI kholna hota ha ......jise hum add and push kar sakte hain .........
